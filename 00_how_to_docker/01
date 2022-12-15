@@ -1,0 +1,2 @@
+open --background -a Docker
+docker pull hello-world  

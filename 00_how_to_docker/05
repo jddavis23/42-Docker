@@ -1,0 +1,6 @@
+docker run -it --rm alpine /bin/sh
+or
+docker exec -it <container-name> /bin/sh (to start a shell process in a 
+running container)
+
+exit (to exit) and delete itself

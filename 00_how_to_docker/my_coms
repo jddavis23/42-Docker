@@ -1,0 +1,2 @@
+docker container ls --all - list all containers
+
